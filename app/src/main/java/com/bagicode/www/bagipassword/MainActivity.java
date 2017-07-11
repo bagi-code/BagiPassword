@@ -13,6 +13,11 @@ import android.widget.TextView;
 import java.util.Timer;
 import java.util.TimerTask;
 
+/**
+ * create by bagicode
+ * free coding
+ * good coding*/
+
 public class MainActivity extends AppCompatActivity {
 
     private Timer timer = new Timer();
